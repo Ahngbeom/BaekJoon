@@ -39,13 +39,6 @@ public class I_ll_be_chairman {
 					i++;
 				}
 			}
-			
-//			for (int[] arr2 : arr) {
-//				for (int num : arr2) {
-//					System.out.print(num + " ");
-//				}
-//				System.out.println();
-//			}
 			System.out.println(arr[k][n - 1]);
 		}
 	}
