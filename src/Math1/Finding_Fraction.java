@@ -1,4 +1,4 @@
-package Math;
+package Math1;
 import java.util.Scanner;
 
 public class Finding_Fraction {
