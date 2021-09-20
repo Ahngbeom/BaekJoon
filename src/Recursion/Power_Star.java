@@ -38,6 +38,9 @@ public class Power_Star {
 //		int wh = sc.nextInt();
 //		int[][] square = new int[wh][wh];
 		
-		ps.put_star(0, 0, sc.nextInt());
+//		ps.put_star(0, 0, sc.nextInt());
+		ps.put_star(0, 0, 3);
+		ps.put_star(0, 0, 9);
+		ps.put_star(0, 0, 27);
 	}
 }
